@@ -1,4 +1,4 @@
-# \<aspen-swatch\>
+#<aspen-swatch\>
 
 This component displays a non-editable  field 
 

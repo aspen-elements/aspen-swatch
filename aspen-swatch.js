@@ -1,5 +1,4 @@
-import { PolymerElement } from '/node_modules/@polymer/polymer/polymer-element.js';
-import { html } from '@polymer/polymer/lib/utils/html-tag.js';
+import { PolymerElement,html } from '@polymer/polymer/polymer-element.js';
 import { afterNextRender } from '@polymer/polymer/lib/utils/render-status.js';
 /**
  * `aspen-swatch` This component displays a non-editable  field

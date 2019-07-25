@@ -1,6 +1,6 @@
 #<aspen-swatch\>
 
-This component displays a non-editable  field 
+This component displays a non-editable colour swatch
 
 ## Install the Polymer-CLI
 
